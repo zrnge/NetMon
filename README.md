@@ -2,6 +2,7 @@
 NetMon is a graphical, cross-platform tool built with Python and Tkinter designed to provide real-time visibility into all network connections (IPv4, IPv6, TCP, UDP) established by processes on your local machine.
 
 This project is open-source and created by zrng (github.com/zrnge).
+
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/zrnge/NetMon/blob/main/NetMon.png)
 
 # 🚀 Features
@@ -59,52 +60,42 @@ sudo python3 netmon_v1.1.py
 
 Use the text input field to filter the table based on specific criteria. Separate key-value pairs with commas. The search is case-insensitive and supports partial matches.
 
-Format: key:value,key:value
+> Format: key:value,key:value
 
 Key Description Example
 
-pid Process ID  pid:8765
-
-process_name
-
-Executable name
-
+pid Process ID 
+```
+pid:8765
+```
+process_name Executable name
+```
 process_name:firefox
-
-src_ip
-
-Local IP address
-
+```
+src_ip Local IP address
+```
 src_ip:192.168.1.1
-
-dst_ip
-
-Remote IP address
-
+```
+dst_ip Remote IP address
+```
 dst_ip:1.1.1.1
-
-src_port
-
-Local port number
-
+```
+src_port Local port number
+```
 src_port:54321
-
-dst_port
-
-Remote port number
-
+```
+dst_port Remote port number
+```
 dst_port:443
-
-protocol
-
-Protocol type
-
+```
+protocol Protocol type
+```
 protocol:udp/ipv6
-
-Baseline Comparison
+```
+## Baseline Comparison
 
 Use the File menu to manage baselines:
 
-File > Save a Baseline: Saves the current set of established connections to network_baseline.json.
+> File > Save a Baseline: Saves the current set of established connections to network_baseline.json.
 
-File > Compare to a Baseline: Enables comparison mode. Any connection currently active that was NOT in the saved baseline will be highlighted in the table, indicating potentially new or suspicious activity.
+> File > Compare to a Baseline: Enables comparison mode. Any connection currently active that was NOT in the saved baseline will be highlighted in the table, indicating potentially new or suspicious activity.
