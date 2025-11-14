@@ -1,7 +1,7 @@
 # NetMon
 NetMon is a graphical, cross-platform tool built with Python and Tkinter designed to provide real-time visibility into all network connections (IPv4, IPv6, TCP, UDP) established by processes on your local machine.
 
-This project is open-source and created by [zrng](github.com/zrnge).
+This project is open-source and created by [zrng].
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/zrnge/NetMon/blob/main/NetMon.png)
 
