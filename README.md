@@ -3,7 +3,7 @@ NetMon is a graphical, cross-platform tool built with Python and Tkinter designe
 
 This project is open-source and created by zrng (github.com/zrnge).
 
-#🚀 Features
+# 🚀 Features
 
 Real-time Table View: Displays connections including Source IP/Port, Destination IP/Port, Protocol, Process ID (PID), Process Name, Connection Status, and Connection Duration.
 
@@ -21,41 +21,37 @@ Logging: Save dynamic logs of new established connections (network_log.txt) or e
 
 Copy Functionality: Right-click any row or column to copy data directly to the clipboard.
 
-#⚙️ Installation
+# ⚙️ Installation
 
-##Prerequisites
+## Prerequisites
 
 You need Python 3.x installed on your system.
 
-##Install Dependencies
+## Install Dependencies
 
 NetMon only requires the psutil library (Tkinter is usually included with standard Python installations).
-'''
+```
 pip install -r requirements.txt
-'''
+```
 
-#▶️ Running NetMon
+# ▶️ Running NetMon
 
 IMPORTANT: Due to operating system security restrictions, NetMon must be run with elevated privileges (Administrator/root) to access connection data and associate PIDs with process names for all system-wide connections.
 
 #Operating System
 
-##Linux/macOS
+## Linux/macOS
+```
+sudo python3 netmon_v1.1.py
+```
+##  Windows
+```
+1. Open Command Prompt or PowerShell as Administrator. 
 
-> sudo python3 netmon_v1.1.py
+2. Navigate to the project directory. 
 
-##Windows
-
-> 1. Open Command Prompt or PowerShell as Administrator. 
-
-
-
-> 2. Navigate to the project directory. 
-
-
-
-> 3. Run: python netmon_v1.1.py
-
+3. Run: python netmon_v1.1.py
+```
 #📝 Usage Guide
 
 Search Query Filter
