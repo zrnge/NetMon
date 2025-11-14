@@ -2,6 +2,7 @@
 NetMon is a graphical, cross-platform tool built with Python and Tkinter designed to provide real-time visibility into all network connections (IPv4, IPv6, TCP, UDP) established by processes on your local machine.
 
 This project is open-source and created by zrng (github.com/zrnge).
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
 # 🚀 Features
 
@@ -52,25 +53,17 @@ sudo python3 netmon_v1.1.py
 
 3. Run: python netmon_v1.1.py
 ```
-#📝 Usage Guide
+# 📝 Usage Guide
 
-Search Query Filter
+## Search Query Filter
 
 Use the text input field to filter the table based on specific criteria. Separate key-value pairs with commas. The search is case-insensitive and supports partial matches.
 
 Format: key:value,key:value
 
-Key
+Key Description Example
 
-Description
-
-Example
-
-pid
-
-Process ID
-
-pid:8765
+pid Process ID  pid:8765
 
 process_name
 
