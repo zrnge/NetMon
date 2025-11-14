@@ -30,9 +30,9 @@ You need Python 3.x installed on your system.
 ##Install Dependencies
 
 NetMon only requires the psutil library (Tkinter is usually included with standard Python installations).
-
+'''
 pip install -r requirements.txt
-
+'''
 
 #▶️ Running NetMon
 
