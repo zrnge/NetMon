@@ -14,7 +14,7 @@ This project is open-source and created by [zrng].
 
 # 🚀 Features
 
-$\color{green}{\textbf{Real-time Table View:}}$ Displays connections including Source IP/Port, Destination IP/Port, Protocol, Process ID (PID), Process Name, Connection Status, and Connection Duration.
+$\color{green}{\large{Real-time Table View:}}$ Displays connections including Source IP/Port, Destination IP/Port, Protocol, Process ID (PID), Process Name, Connection Status, and Connection Duration.
 
 **PID Tracking:** Automatically tracks when a connection enters the ESTABLISHED state to calculate accurate duration.
 
