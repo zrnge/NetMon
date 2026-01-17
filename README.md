@@ -2,9 +2,9 @@
 
 ![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Static Badge](https://img.shields.io/badge/Security-defensive-blue)
+![Security](https://img.shields.io/badge/Security-defensive-blue)
+![Domain](https://img.shields.io/badge/Domain-Network%20Security-green)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
-![Static Badge](https://img.shields.io/badge/Domain-Network%20Security-green)
 
 NetMon is a graphical, cross-platform tool built with Python and Tkinter designed to provide real-time visibility into all network connections (IPv4, IPv6, TCP, UDP) established by processes on your local machine.
 
