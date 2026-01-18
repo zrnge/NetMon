@@ -13,21 +13,21 @@ This project is open-source and created by [zrng].
 
 # 🚀 Features
 
-$\color{green}{\large{Real-time Table View:}}$ Displays connections including Source IP/Port, Destination IP/Port, Protocol, Process ID (PID), Process Name, Connection Status, and Connection Duration.
+**Real-time Table View:** Displays connections including Source IP/Port, Destination IP/Port, Protocol, Process ID (PID), Process Name, Connection Status, and Connection Duration.
 
-$\color{green}{\large{PID Tracking:}}$ Automatically tracks when a connection enters the ESTABLISHED state to calculate accurate duration.
+**PID Tracking:** Automatically tracks when a connection enters the ESTABLISHED state to calculate accurate duration.
 
-$\color{green}{\large{Theming:}}$ Supports Light and Dark modes with system default detection.
+**Theming:** Supports Light and Dark modes with system default detection.
 
-$\color{green}{\large{Filtering:}}$ Use the dropdown to filter by connection Status (e.g., ESTABLISHED, LISTEN, TIME_WAIT).
+**Filtering:** Use the dropdown to filter by connection Status (e.g., ESTABLISHED, LISTEN, TIME_WAIT).
 
-$\color{green}{\large{Query Search:}}$ Use a powerful search box to filter by multiple criteria (e.g., pid:1234,process_name:chrome,dst_ip:8.8.8.8).
+**Query Search:** Use a powerful search box to filter by multiple criteria (e.g., pid:1234,process_name:chrome,dst_ip:8.8.8.8).
 
-$\color{green}{\large{Baseline Comparison:}}$ Save a network baseline and highlight any new, previously unseen connections for security analysis.
+**Baseline Comparison:** Save a network baseline and highlight any new, previously unseen connections for security analysis.
 
-$\color{green}{\large{Logging:}}$ Save dynamic logs of new established connections (network_log.txt) or export a snapshot of the current table data.
+**Logging:** Save dynamic logs of new established connections (network_log.txt) or export a snapshot of the current table data.
 
-$\color{green}{\large{Copy Functionality:}}$ Right-click any row or column to copy data directly to the clipboard.
+**Copy Functionality:** Right-click any row or column to copy data directly to the clipboard.
 
 # ⚙️ Installation
 
