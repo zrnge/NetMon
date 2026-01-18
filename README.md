@@ -1,4 +1,4 @@
-# $\color{green}{\textbf{NetMon}}$
+# <h1 style="color:green;">NetMon</h1>
 
 ![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
@@ -10,7 +10,7 @@ NetMon is a graphical, cross-platform tool built with Python and Tkinter designe
 
 This project is open-source and created by [zrng].
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/zrnge/NetMon/blob/main/NetMon.png)
+![NetMon](https://github.com/zrnge/NetMon/blob/main/NetMon.png)
 
 # 🚀 Features
 
