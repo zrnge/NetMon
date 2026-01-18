@@ -1,5 +1,7 @@
-<h1 style="color: green;">NetMon</h1>
-
+<h1 class="title">NetMon</h1>
+.title {
+    color: green;
+}
 ![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Security](https://img.shields.io/badge/Security-defensive-blue)
