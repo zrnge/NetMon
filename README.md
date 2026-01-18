@@ -1,5 +1,4 @@
-# NetMon
-<code style="color: red">hello World!</code>
+<code style="color: red">NetMon</code>
 ![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Security](https://img.shields.io/badge/Security-defensive-blue)
