@@ -1,4 +1,4 @@
-# <h1 style="color:green;">NetMon</h1>
+# <h1 style="color: green;">NetMon</h1>
 
 ![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
